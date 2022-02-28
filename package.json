@@ -1,0 +1,29 @@
+{
+  "name": "gatsby-remark-hard-breaks",
+  "version": "1.0.0",
+  "description": "A Gatsby Remark plugin to add break support without needing spaces for Gatsby 4.",
+  "main": "index.js",
+  "author": "Anakorn Kyavatanakij <anakornk@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "gatsby",
+    "remark",
+    "breaks",
+    "break",
+    "line"
+  ],
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "remark-breaks": "^2.0.0"
+  },
+  "peerDependencies": {
+    "gatsby": "^4.0.0"
+  },
+  "homepage": "https://github.com/anakornk/gatsby-remark-hard-breaks#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anakornk/gatsby-remark-hard-breaks.git"
+  }
+}
